@@ -1,5 +1,5 @@
 <h1 align='center'> Hi 👋, I'm Nishita Gole</h1> 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 A Coding Enthusiast<br>🔭 I’m currently working on Web/ML Projects<br>👯 I’m looking to collaborate on Web Development/Machine Learning Projects<br>🤝 I’m looking for help with Job/Internship Opportunities<br>🌱 I’m currently learning Angular/Data Science <br>
 📫 How to reach me : nishitagole02@gmail.com
 
