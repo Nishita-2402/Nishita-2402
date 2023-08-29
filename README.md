@@ -1,5 +1,5 @@
 <h1 align='center'> Hi 👋, I'm Nishita Gole</h1>  
-A Coding Enthusiast<br>🔭 I’m currently working on Web/ML Projects<br>👯 I’m looking to collaborate on Web Development/Machine Learning Projects<br>🤝 I’m looking for help with Job/Internship Opportunities<br>🌱 I’m currently learning Angular/Data Science 
+A Coding Enthusiast<br>🔭 I’m currently working on Web/ML Projects<br>👯 I’m looking to collaborate on Web Development/Machine Learning Projects<br>🤝 I’m looking for help with Job/Internship Opportunities<br>🌱 I’m currently learning Angular/Data Science <br>
 📫 How to reach me : nishitagole02@gmail.com
 
 ## 🌐 Socials:
